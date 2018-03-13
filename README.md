@@ -1,0 +1,2 @@
+# detgam
+Detective game
